@@ -6,7 +6,7 @@ need to talk about 2
 
 4. A=4,B=8,C=9,D=1,E=3,F=6,G=2
 
-5. Magic number = the first bits of a file which uniquely identify the type of file, Kind of file= JPEG
+5. Magic number= the first bits of a file which uniquely identify the type of file,Kind of file= JPEG
 
 6.
 
