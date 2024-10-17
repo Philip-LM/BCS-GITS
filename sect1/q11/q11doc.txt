@@ -1,0 +1,6 @@
+so it gives me some code]
+looks a bit like python so im going to try doing that
+wants me to decrypt a key for something
+
+ok so im just going to brute force attempt keys until it spits me out a reasonable bit of data
+ok so we arent brute forcing it because there are 10^26 new bits to do

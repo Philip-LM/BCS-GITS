@@ -1,0 +1,13 @@
+They are just questions so I'm going to just google what a magic number is
+then take the magic number to a lookup table or something then hope for the best
+
+the magic number of the file is: FF D8 FF E0
+
+on the look up table it says its a 
+JPEG File Interchange Format 	.jpg
+jpeg
+
+
+answer:
+then take the magic number to a lookup table or something then hope for the best
+JPEG File Interchange Format 	.jpg
