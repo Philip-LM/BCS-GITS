@@ -1,0 +1,26 @@
+Claim your problems and credit your work here
+Also add documentation of how the problem is going. Add documentation about how the problem's code is being done in each questions folders qXXdoc.txt
+
+q1-
+
+q2-
+
+q3-
+
+q4-
+
+q5-
+
+q6-
+
+q7-
+
+q8-
+
+q9-
+
+q10-
+
+q11-
+
+q12-
