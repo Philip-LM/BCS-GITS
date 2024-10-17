@@ -1,0 +1,20 @@
+The question wants me to use the gchq cyber chef tool to try and do it so i'll start with that
+it's a big ol' string of 2 digit numbers by the looks (may be done as hex so idk)
+
+So if you take that big ol' string
+turn it into binary from hex
+from binary turn it into utf 8 (i think)
+in utf 8 it is a bunch of morse code
+take that morse code and translate it from morse
+it gives you a multiple choice
+
+which is
+WHICH OF THE FOLLOWING METHODS IS CONSIDERED THE MOST SECURE FOR AUTHENTICATING A USERS IDENTITY? 
+
+A) USING A PASSWORD THAT INCLUDES THE USERS NAME AND BIRTH YEAR 
+B) IMPLEMENTING TWO-FACTOR AUTHENTICATION WITH A PASSWORD AND A MOBILE TEXT CODE 
+C) CHOOSING SECURITY QUESTIONS THAT ARE EASILY FOUND ON SOCIAL MEDIA PROFILES 
+D) REUSING THE SAME PASSWORD ACROSS MULTIPLE ACCOUNTS FOR EASE OF MEMORY
+
+its B
+uhm the q is kinda dumb imho. Took a few minutes to faf with since the questions was obfiscated by *magic*
