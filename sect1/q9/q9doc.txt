@@ -1,0 +1,8 @@
+chatgpt + converter
+8743b52063cd84097a65d1633f5c74f5 = hashcat
+Y3liZXJjaGVm = cyberchef
+01101110 01101101 01100001 01110000 = nmap
+74 63 70 64 75 6d 70 = tcpdump
+Nvepenpx-at = Aircrack-ng
+
+bonus = hyadr = hydra
