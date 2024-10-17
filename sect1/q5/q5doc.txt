@@ -9,5 +9,4 @@ jpeg
 
 
 answer:
-then take the magic number to a lookup table or something then hope for the best
-JPEG File Interchange Format 	.jpg
+Magic number = the first bits of a file which uniquely identify the type of file, Kind of file= JPEG
