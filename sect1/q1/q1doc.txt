@@ -1,0 +1,6 @@
+just gonna brute force it
+Im gonna print out every single combination of letters starting from the red O
+Then unless i can find a garanteed list of cybersecurity words i will look through the thousands of combinations myself
+
+Nvm 
+Longest word ive found = Operating
