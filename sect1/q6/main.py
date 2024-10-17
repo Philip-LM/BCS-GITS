@@ -9,18 +9,20 @@ def IsComplete(list):
     return True
 
 def AddBranch(node,current_path):
-        for i in range(len(nodes[node-1])):
-            num = nodes[node-1][i]
-            if not num in current_path:
-                if num == 1:
-                    new_list = current_path
-                    new_list.append(num)
-                    if IsComplete(new_list):
-                        paths.append(new_list)
-                else:
-                    new_list = current_path
-                    new_list.append(num)
-                    AddBranch(num,new_list)
-
+    print("new branch")
+    for i in range(len(nodes[node-1])):
+        num = nodes[node-1][i]
+        if not num in current_path:
+            if num == 1:
+                new_list = current_path
+                new_list.append(num)
+                if IsComplete(new_list):
+                    paths.append(new_list)
+            else:
+                new_list = current_path
+                new_list.append(num)
+                AddBranch(num,new_list)
+print("Starting")
 AddBranch(1,[])
+print("Finshed")
 print(paths)
