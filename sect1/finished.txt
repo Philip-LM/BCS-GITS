@@ -1,0 +1,24 @@
+1.
+need to talk about 2
+2.(03) radius = input("Enter radius"), (04) if (radius<=1 OR radius >=30) and radius != int(radius) then, (05) print("Sorry, that radius is invalid"), (08) print(area) 
+
+3. 4,3,2,1
+
+4. A=4,B=8,C=9,D=1,E=3,F=6,G=2
+
+5. Magic number = the first bits of a file which uniquely identify the type of file, Kind of file= JPEG
+
+6.
+
+7. IP ADDRESS
+
+8. Answer=e
+
+9.A=hashcat,B=cyberchef,C=nmap,D=tcpdump,E=Aircrack-ng 
+bonus: hydra
+
+10. 
+
+11. xdfygophi
+
+12.B) IMPLEMENTING TWO-FACTOR AUTHENTICATION WITH A PASSWORD AND A MOBILE TEXT CODE 
