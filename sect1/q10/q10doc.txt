@@ -6,7 +6,7 @@ take this morse
 then anagram it apparently
 
 is it in not morse and there things
-PHINHYNOHOSEIPGT 
-APKOOIRGBSCODFON - spoofing  backdoor
-ABDOWTANREET 
-HEXACPLKEOIRSE
+PHINHYNOHOSEIPGT - honeypot phishing
+APKOOIRGBSCODFON - backdoor spoofing
+ABDOWTANREET - adware botnet
+HEXACPLKEOIRSE - 
